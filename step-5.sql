@@ -77,5 +77,5 @@ where name = 'Wayne Family';
 */
 delete  from reservation 
 where name = 'Kent Family';
-select * from reservation;
+
 
